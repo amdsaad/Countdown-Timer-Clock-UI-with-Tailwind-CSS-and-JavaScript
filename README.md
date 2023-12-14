@@ -4,7 +4,7 @@ This project is a countdown timer clock UI created using Tailwind CSS and JavaSc
 
 ## Author
 
-This project was created by [Ahmed Saad](https://amd.codes/posts/creating-a-countdown-timer-clock-ui-with-tailwind-css-and-java-script). Please refer to their post for more details on the implementation.
+This project was created by [Ahmed Saad](https://amd.codes/posts/creating-a-countdown-timer-clock-ui-with-tailwind-css-and-java-script). Please refer to his post for more details on the implementation.
 
 ## Features
 
